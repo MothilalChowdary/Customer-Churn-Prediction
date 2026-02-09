@@ -8,9 +8,7 @@ db.sqlite3
 # Pipenv environment
 .venv/
 
-# ML artifacts
-*.pkl
-*.joblib
+
 
 # Jupyter
 .ipynb_checkpoints/
